@@ -3,7 +3,7 @@
 - 👨🏼‍💻 Sou Analista Desenvolvedor de Sistemas Júnior.
 - 🎯 Me formei em Análise e Desenvolvimento de Sistemas (2021) e Desenvolvedor Back-end Java em ascenção!
 - 📚 Iniciei esta jornada em junho2019. 
-- ⚡ Trabalho à 15 anos com infraestrutura de TI. Negociação de contratos e serviço, rede, telefonia, servidores de aplicações, banco de dados, licenças, aquisição de equipamentos, Suporte a wardware e software.
+- ⚡ Trabalho à 15 anos com infraestrutura de TI. Negociação de contratos e serviço, rede, telefonia, servidores de aplicações, banco de dados, licenças, aquisição de equipamentos, Suporte a hardware e software.
 - ⚡ Gerenciamento de crises e capaz de trabalhar sob pressão.
 - ⚡ Habilidade para trabalho em equipe e excelente relacionamento interpessoal. 
 - 🎺 Hobbies ler, ciclismo e estudar novas tecnologias. 
