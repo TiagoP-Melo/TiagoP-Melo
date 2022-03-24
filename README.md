@@ -1,12 +1,12 @@
 ### Olá, eu sou Tiago Portella de Melo! ?? 
 
-- 👨🏼‍💻 Sou Analista Desenvolvedor de Sistemas Júnior. br
-- 🎯 Me formei em Análise e Desenvolvimento de Sistemas (2021) e Desenvolvedor Back-end Java em ascenção! br
-- 📚 Iniciei esta jornada em junho2019. br
-- ⚡ Trabalho à 15 anos com infraestrutura de TI. Negociação de contratos e serviço, rede, telefonia, servidores de aplicações, banco de dados, licenças, aquisição de equipamentos, Suporte a wardware e software. br
-- ⚡ Gerenciamento de crises e capaz de trabalhar sob pressão. br
-- ⚡ Habilidade para trabalho em equipe e excelente relacionamento interpessoal. br
-- 🎺 Hobbies Ler, ciclismo e estudar novas tecnologias. br
+- 👨🏼‍💻 Sou Analista Desenvolvedor de Sistemas Júnior.
+- 🎯 Me formei em Análise e Desenvolvimento de Sistemas (2021) e Desenvolvedor Back-end Java em ascenção!
+- 📚 Iniciei esta jornada em junho2019. 
+- ⚡ Trabalho à 15 anos com infraestrutura de TI. Negociação de contratos e serviço, rede, telefonia, servidores de aplicações, banco de dados, licenças, aquisição de equipamentos, Suporte a wardware e software.
+- ⚡ Gerenciamento de crises e capaz de trabalhar sob pressão.
+- ⚡ Habilidade para trabalho em equipe e excelente relacionamento interpessoal. 
+- 🎺 Hobbies ler, ciclismo e estudar novas tecnologias. 
 
 ### Contato
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiago-portella-de-melo-7344b125/)
@@ -15,7 +15,7 @@
 
 
 ### Hard Skills
-![Java](httpsimg.shields.iobadgeJava-ED8B00style=for-the-badge&logo=java&logoColor=white) ![Spring](httpsimg.shields.iobadgeSpring-6DB33Fstyle=for-the-badge&logo=spring&logoColor=white) ![React](httpsimg.shields.iobadgeReact-20232Astyle=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](httpsimg.shields.iobadgeMySQL-00000Fstyle=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](httpsimg.shields.iobadgePostgreSQL-316192style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](httpsimg.shields.iobadgeMongoDB-4EA94Bstyle=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ### Soft Skills
