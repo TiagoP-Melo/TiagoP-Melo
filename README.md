@@ -1,7 +1,7 @@
 ### Olá, eu sou Tiago Portella de Melo! 😁
 
 - 👨🏼‍💻 Sou Analista Desenvolvedor de Sistemas Júnior.
-- 🎯 Me formei em Análise e Desenvolvimento de Sistemas (2021) e estou me dedicado para me tornar um Desenvolvedor Back-end Java!
+- 🎯 Me formei em Análise e Desenvolvimento de Sistemas (2021) e estou dedicado para me tornar um Desenvolvedor Back-end Java!
 - 📚 Iniciei esta jornada em junho 2019 para migrar para area de sistemas. 
 - ⚡ Trabalho à 15 anos com infraestrutura de TI. Com negociação de contratos e serviços, rede, telefonia, servidores de aplicações, banco de dados, licenças, aquisição de equipamentos, suporte a hardware e software.
 - ⚡ Habilidade para trabalho em equipe e excelente relacionamento interpessoal. 
@@ -18,5 +18,5 @@
 
 
 ### Soft Skills
-Como profissional, desenvolvi muita disciplina, persistência, responsabilidade para entregar resultados, foco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, trabalhar em equipe, sempre buscando a excelência do time e da empresa e nunca fazendo o mais do mesmo.br
+Como profissional, desenvolvi muita disciplina, persistência, responsabilidade para entregar resultados, foco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, trabalhar em equipe, sempre buscando a excelência do time e da empresa e nunca fazendo o mais do mesmo.
 
